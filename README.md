@@ -1,5 +1,7 @@
 # HF-signature-ML
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23487999.svg)](https://doi.org/10.5281/zenodo.23487999)
+
 Analysis code for the manuscript:
 
 **A Donor-Level Single-Cell Atlas–Anchored Tissue Biomarker Signature for Heart Failure: Ensemble Machine Learning and Multi-Cohort Validation**
@@ -104,4 +106,6 @@ Scripts expect a working directory containing the GEO `*_symbol.csv` / `*_group.
 
 ## Citation
 
-A citable Zenodo DOI will be added here upon public release of the repository.
+If you use this code, please cite the archived release:
+
+> kabudahcc. (2026). kabudahcc/HF-signature-ML: Manuscript submission version (PLOS ONE) (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.23487999
